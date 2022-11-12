@@ -1,0 +1,1 @@
+// ANCHOR ---> operador ternario y operador AND (&&)
